@@ -1,0 +1,26 @@
+<annotation>
+	<folder>padestrian</folder>
+	<filename>hj.png</filename>
+	<path>C:\Users\HighFive\Desktop\padestrian\hj.png</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>1356</width>
+		<height>765</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>padestrian</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>831</xmin>
+			<ymin>381</ymin>
+			<xmax>967</xmax>
+			<ymax>740</ymax>
+		</bndbox>
+	</object>
+</annotation>
